@@ -3,10 +3,6 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEditor;
 
-public class MySerializedProperty : ScriptableObject
-{
-    public float FloatVar = 0.0f;
-}
 
 public class ChangingComponentSerialized : MonoBehaviour
 {
